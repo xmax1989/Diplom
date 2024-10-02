@@ -3,11 +3,11 @@
 
 Коллекция тестов сайта яндекс деливери(ui и api) 
 
-запуск всех тестов:  pytest
-запуск тестов с алюр отчетом:  pytest --alluredir allure-result
-получить алюр отчет: allure serve allure-result
-запуск ui тестов:  pytest UI_tests.py
-запуск api тестов:  pytest API_tests.py
+запуск всех тестов:    pytest
+запуск тестов с алюр отчетом:    pytest --alluredir allure-result
+получить алюр отчет:    allure serve allure-result
+запуск ui тестов:    pytest UI_tests.py
+запуск api тестов:    pytest API_tests.py
 
 Тесты проверяют главную страницу деливери,
 страницы магазинов, вкладку "поддержка",
